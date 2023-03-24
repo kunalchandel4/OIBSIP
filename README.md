@@ -11,4 +11,4 @@ ATM interface was the first project I worked on. The most difficult of each of t
 
 ## Project 2: Number Guessing Game
 
-A game of guessing numbers was the second undertaking I worked on. Although this project was very straightforward, it nevertheless allowed me to improve my logical thinking and problem-solving abilities. I was able to add functions like a cap on the number of tries, extra rounds, and a score display based on the quantity of tries. Additionally, working on this project helped me better understand Java programming concepts like loops, conditional statements, and object-oriented programming.
+A game of guessing numbers was the second undertaking I worked on. Although this project was very straightforward, it nevertheless allowed me to improve my logical thinking and problem-solving abilities. I was able to add functions like  extra rounds, and a score display based on the quantity of tries. Additionally, working on this project helped me better understand Java programming concepts like loops, conditional statements, and object-oriented programming.
